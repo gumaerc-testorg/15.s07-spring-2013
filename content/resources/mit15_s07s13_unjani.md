@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/7505469401151bd01b3c303ee6f0ea30_MIT15_S07S13_unjani.jpg
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/7505469401151bd01b3c303ee6f0ea30_MIT15_S07S13_unjani.jpg
 file_type: image/jpeg
 image_metadata:
   caption: During their visit, the team observed six clinics and conducted over 80
@@ -12,6 +12,10 @@ image_metadata:
   credit: Photograph courtesy of Korn Chinsawananon, Kari Hodges, Sora Bae Kim, and
     Nicholas Sze. Used with permission.
   image-alt: Patients sitting outside of a clinic.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Unjani Clinic
+parent_type: CourseSection
 resourcetype: Image
 title: MIT15_S07S13_unjani.jpg
 uid: 75054694-0115-1bd0-1b3c-303ee6f0ea30

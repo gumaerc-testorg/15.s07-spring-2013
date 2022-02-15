@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding process improvement.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/56a7f492e28179df866864f1a71a3193_MIT15_S07S13_lec4.pdf
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/56a7f492e28179df866864f1a71a3193_MIT15_S07S13_lec4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4 Slides: Process Improvement'
 uid: 56a7f492-e281-79df-8668-64f1a71a3193

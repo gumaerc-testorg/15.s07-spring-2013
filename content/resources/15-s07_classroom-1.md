@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/21592522c8917ca917b782b21fc7eb87_15-S07_classroom-1.png
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/21592522c8917ca917b782b21fc7eb87_15-S07_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15-S07_classroom-1.png
 uid: 21592522-c891-7ca9-17b7-82b21fc7eb87

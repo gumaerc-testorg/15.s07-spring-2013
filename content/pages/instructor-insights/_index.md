@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 ---
@@ -55,28 +57,6 @@ No previous coursework required. However, interested students must undergo the [
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A raked, amphitheater-style lecture hall with five rows of seating and a lectern in front.]({{< resource_file 21592522-c891-7ca9-17b7-82b21fc7eb87 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### In Class
-    
-    Class sessions are conducted in a typical lecture-style classroom. During the course, students deliver presentations on their projects, and participate in discussions with guest panelists.
-    
-*   ![Patients waiting outside a clinic in South Africa.]({{< resource_file d1470d1a-73b2-aafb-d776-ebbc675679f2 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### On-site
-    
-    For two weeks in March, students travel to their host organizations to complete the on-site component of the project.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

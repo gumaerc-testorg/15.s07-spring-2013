@@ -2,8 +2,13 @@
 content_type: resource
 description: "This file contains information regarding list of selected books on global\
   \ health, healthcare in low-resource settings, and related policy contexts.\r\n"
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/421bc14cd9d607efd3558ed41e79f58d_MIT15_S07S13_janreadlist.pdf
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/421bc14cd9d607efd3558ed41e79f58d_MIT15_S07S13_janreadlist.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'January Reading List: Selected books on global health, healthcare in low-resource
   settings, and related policy contexts'

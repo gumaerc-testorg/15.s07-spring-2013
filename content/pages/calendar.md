@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2cb6e376-84cf-9ec6-bdf2-066c1411f3f2
 ---
@@ -34,7 +36,7 @@ REQUIRED PREPS / FOLLOW—UPS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1  
    
  
@@ -87,7 +89,7 @@ _Speaker_: Lina Sayed, MBA 2012
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 2  
    
    
@@ -174,7 +176,7 @@ Data and measurement
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4  
    
  
@@ -227,7 +229,7 @@ _Panelists_: Bobby Milstein, Director of ReThink Health; Sachin Jain, Chief Medi
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 5  
  
 {{< tdclose >}}
@@ -261,7 +263,7 @@ Finance and revenue models
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6  
  
 {{< tdclose >}}
@@ -325,7 +327,7 @@ On-site team project (cont.) 
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 9  
  
 {{< tdclose >}}
@@ -359,7 +361,7 @@ Prepare for mentor meeting
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -407,7 +409,7 @@ Management matters, revisited
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 12  
  
 {{< tdclose >}}
@@ -435,7 +437,7 @@ Healthcare delivery challenges and opportunities
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 13  
  
 {{< tdclose >}}

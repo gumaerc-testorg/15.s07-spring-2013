@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
 title: Unjani Clinic
 uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b

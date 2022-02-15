@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
 title: L V Prasad Eye Institute
 uid: a9073ed2-5726-e216-9189-c7ea6b4e466e

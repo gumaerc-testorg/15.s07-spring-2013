@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding global health overview.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/0a41520d67ee0888ae61f4f466af83bd_MIT15_S07S13_lec3.pdf
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/0a41520d67ee0888ae61f4f466af83bd_MIT15_S07S13_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3 Slides: Global Health Overview'
 uid: 0a41520d-67ee-0888-ae61-f4f466af83bd

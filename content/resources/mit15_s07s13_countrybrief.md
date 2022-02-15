@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/9c9f18732b5bd7d4838f8757388b863e_MIT15_S07S13_countrybrief.pdf
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/9c9f18732b5bd7d4838f8757388b863e_MIT15_S07S13_countrybrief.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment: Country Briefing'
 uid: 9c9f1873-2b5b-d7d4-838f-8757388b863e

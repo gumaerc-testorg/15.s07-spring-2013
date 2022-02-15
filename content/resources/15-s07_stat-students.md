@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s07-globalhealth-lab-spring-2013/e94bcf1e5f9be095e34d99c0f79067fe_15-S07_stat-students.png
+file: /media/courses/15-s07-globalhealth-lab-spring-2013/e94bcf1e5f9be095e34d99c0f79067fe_15-S07_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15-S07_stat-students.png
 uid: e94bcf1e-5f9b-e095-e34d-99c0f79067fe

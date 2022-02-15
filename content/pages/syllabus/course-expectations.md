@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 2354f691-c344-3414-8013-73c49d1944e8
 title: Course Expectations
 uid: d54ec244-9b96-389a-e4e4-be50d2e06c64
