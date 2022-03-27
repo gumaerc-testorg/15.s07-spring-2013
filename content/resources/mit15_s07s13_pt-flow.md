@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Pre-trip Deliverables
 parent_type: CourseSection
+parent_uid: 01b61425-8619-596a-c333-24796b9e4e49
 resourcetype: Image
 title: MIT15_S07S13_pt-flow.jpg
 uid: 232abddd-b939-5ec4-4b45-a193095f41d2

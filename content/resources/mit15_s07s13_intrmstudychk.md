@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 2cb6e376-84cf-9ec6-bdf2-066c1411f3f2
 resourcetype: Document
 title: 'In-class Survey: Annotated Bibliography and Interim Study'
 uid: 14b400f0-1f0d-19af-2039-f2c34a663283

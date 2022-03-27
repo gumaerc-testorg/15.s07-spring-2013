@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
 resourcetype: Document
 title: 'Assignment: Country Briefing'
 uid: 9c9f1873-2b5b-d7d4-838f-8757388b863e

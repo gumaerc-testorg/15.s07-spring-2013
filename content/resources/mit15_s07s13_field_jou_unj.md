@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Document
 title: Field Journal, Unjani
 uid: ad78bbfd-5a2d-b5b8-e16e-df0ff678cfdf

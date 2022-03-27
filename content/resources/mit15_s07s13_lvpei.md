@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: L V Prasad Eye Institute
 parent_type: CourseSection
+parent_uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 resourcetype: Image
 title: MIT15_S07S13_lvpei.jpg
 uid: 48257644-74c9-5ad4-6589-715d7184d072

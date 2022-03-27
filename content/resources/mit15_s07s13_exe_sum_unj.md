@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Document
 title: Executive Summary, Unjani
 uid: 69ca740e-3efa-134c-8d1a-783bb921e3f8

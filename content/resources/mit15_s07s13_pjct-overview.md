@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 3818c9e7-1d22-9879-8b06-b951bb3fadcf
 resourcetype: Document
 title: Spring 2013 Project Overviews
 uid: 8e56bba6-faa7-9754-6ae5-6bbec9b4d329

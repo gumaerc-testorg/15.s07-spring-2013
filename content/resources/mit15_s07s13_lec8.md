@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: 'Lecture 8 Slides: Health Commodities and Distribution'
 uid: b57be16c-7278-c30b-9940-b93372f77655

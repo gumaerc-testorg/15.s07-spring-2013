@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Document
 title: Blog Posts, Unjani
 uid: f5337250-13d7-91d4-c932-fa9f87a2b87c

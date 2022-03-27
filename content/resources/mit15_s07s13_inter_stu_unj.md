@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Document
 title: Interim Study, Unjani
 uid: 029c230b-94c7-3057-bfe2-3e44e9ffeb03

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
 resourcetype: Document
 title: 'Assignment: Organization Profile'
 uid: 681b0ddc-eda3-8345-e8d9-5f5ff83fa5af

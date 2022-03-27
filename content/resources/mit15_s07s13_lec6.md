@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: 'Lecture 6 Slides: HR, Job Design, and Task Shifting'
 uid: 78253109-5762-2484-5258-ee83e2c73796

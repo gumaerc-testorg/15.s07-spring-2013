@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Applications Beyond the Course
 parent_type: CourseSection
+parent_uid: cad09ac0-4718-423b-a9fa-221959f7b04a
 resourcetype: Image
 title: MIT15_S07S13_poster.jpg
 uid: 8ca20e49-3b77-7bc9-a716-68ee0bad4ffb

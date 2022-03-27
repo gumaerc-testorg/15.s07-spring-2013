@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 2cb6e376-84cf-9ec6-bdf2-066c1411f3f2
 resourcetype: Document
 title: 'In-class Survey: Planning'
 uid: b362f918-7e39-69fb-193b-b53d1af0c439

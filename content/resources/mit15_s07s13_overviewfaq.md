@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 2354f691-c344-3414-8013-73c49d1944e8
 resourcetype: Document
 title: Course Overview and FAQs for Interested Students
 uid: 141cc9b0-941c-fa35-2671-d0749a3955f8

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: L V Prasad Eye Institute
 parent_type: CourseSection
+parent_uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 resourcetype: Document
 title: Clinics Observations, LVPEI
 uid: 5879601c-e4c2-a9e8-e3e0-7160a88cfa81

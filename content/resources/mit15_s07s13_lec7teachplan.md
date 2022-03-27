@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: 'Lecture 7 Teaching Plan: HR, Job Design, and Task Shifting'
 uid: be285840-d21d-c6ff-a120-85248374a451

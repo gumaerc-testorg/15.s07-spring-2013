@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
 resourcetype: Document
 title: 'Assignment: Executive Summary'
 uid: 8841ac55-032d-f6f3-2d4f-8310f61b5d50

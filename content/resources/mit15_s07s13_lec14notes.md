@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: 'Lecture 14 Discussion Notes: Management Matters, Revisited'
 uid: dab7c373-df6c-5875-dee3-750a2859b057

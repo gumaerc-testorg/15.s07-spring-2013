@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: L V Prasad Eye Institute
 parent_type: CourseSection
+parent_uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 resourcetype: Document
 title: Poster, LVPEI
 uid: 7726d5a7-8b34-e7d7-4077-b086476062ac

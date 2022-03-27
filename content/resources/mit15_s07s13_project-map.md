@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Evolution of the Course
 parent_type: CourseSection
+parent_uid: e7144194-7217-3f8e-4991-6a06d77ad9a6
 resourcetype: Image
 title: MIT15_S07S13_project-map.jpg
 uid: 6fbcebb7-9bc5-23eb-b6f4-4c46df9a670e

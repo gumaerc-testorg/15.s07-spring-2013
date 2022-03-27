@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1601f42d-e42f-e62f-c909-bc0f6e6bdd73
 resourcetype: Document
 title: 'January Reading List: Selected books on global health, healthcare in low-resource
   settings, and related policy contexts'

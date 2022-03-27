@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Document
 title: Annotated Bibliography, Unjani
 uid: 9115573b-3cfb-bb6c-50e5-70b38d9b4c3c

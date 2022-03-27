@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 resourcetype: Document
 title: ' Lecture 9 Slides: Finance and Revenue Models'
 uid: 61bdd40f-22a5-4742-32ed-863e02aeadc3

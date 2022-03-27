@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: L V Prasad Eye Institute
 parent_type: CourseSection
+parent_uid: a9073ed2-5726-e216-9189-c7ea6b4e466e
 resourcetype: Document
 title: Organizational Profile, LVPEI
 uid: b4d3e44f-f84c-b7a2-3dde-13b8730af57e

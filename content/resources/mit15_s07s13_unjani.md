@@ -16,6 +16,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unjani Clinic
 parent_type: CourseSection
+parent_uid: dbdb449f-9aea-f745-4b10-c97c28a45f1b
 resourcetype: Image
 title: MIT15_S07S13_unjani.jpg
 uid: 75054694-0115-1bd0-1b3c-303ee6f0ea30
