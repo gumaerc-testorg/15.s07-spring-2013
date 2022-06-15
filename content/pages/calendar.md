@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, speakers, class
+  activities, and readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -8,7 +10,7 @@ uid: 2cb6e376-84cf-9ec6-bdf2-066c1411f3f2
 
 Before the onsite project, class usually meets twice a week in February and March, and students also attend a small number of lunch sessions and mentor meetings. In April, class meets once a week to allow time for mentor and team meetings. Class sessions include interactions with guests to build the dialog—not only within the class but also within the wider community.
 
-The following table lists the session topics, and required preparation and follow-up for each session. This list of scheduled sessions does not include deliverables and course assignments, which are listed on the [Deliverables and Action Steps]({{< baseurl >}}/pages/assignments/deliverables-and-action-steps) page. During certain class sessions, in-class surveys are conducted as check-ins for assignments and deliverables progress, and are indicated in the table below. Full citations for the readings and cases are available on the [Readings]({{< baseurl >}}/pages/readings) page.
+The following table lists the session topics, and required preparation and follow-up for each session. This list of scheduled sessions does not include deliverables and course assignments, which are listed on the {{% resource_link 564190aa-addb-75cb-a44f-633498ae2eb9 "Deliverables and Action Steps" %}} page. During certain class sessions, in-class surveys are conducted as check-ins for assignments and deliverables progress, and are indicated in the table below. Full citations for the readings and cases are available on the {{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" %}} page.
 
 \[S\] = Regular class session
 
@@ -48,7 +50,7 @@ S1
 Visions for the course and vision in global health
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read1)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read1" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ _Speaker_: Lina Sayed, MBA 2012
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read2)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read2" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +122,7 @@ S3
 Global health overview (focus on maternal health)
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read3)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read3" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +152,7 @@ S4
 Process improvement
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read4) and _Nairobi County Hospital_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read4" %}} and _Nairobi County Hospital_ case prep
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,9 +169,9 @@ Data and measurement
 {{< tdopen >}}
 
 
-[Readings]({{< baseurl >}}/pages/readings/#read5) and _Apollo Hospitals_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read5" %}} and _Apollo Hospitals_ case prep
 
-[In-class survey: planning (PDF)]({{< baseurl >}}/resources/mit15_s07s13_plancheck)
+{{% resource_link b362f918-7e39-69fb-193b-b53d1af0c439 "In-class survey: planning (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -188,7 +190,7 @@ S6
 HR, job design, and task shifting
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read6) and _CHWs in Zambia_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read6" %}} and _CHWs in Zambia_ case prep
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +226,7 @@ _Panelists_: Bobby Milstein, Director of ReThink Health; Sachin Jain, Chief Medi
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read7)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read7" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +242,7 @@ S8
 Health commodities and distribution
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read8) and _Living Goods_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read8" %}} and _Living Goods_ case prep
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,9 +256,9 @@ Finance and revenue models
 {{< tdopen >}}
 
 
-[Readings]({{< baseurl >}}/pages/readings/#read9) and _Star Hospital_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read9" %}} and _Star Hospital_ case prep
 
-[In-class survey: annotated bibliography and interim study (PDF)]({{< baseurl >}}/resources/mit15_s07s13_intrmstudychk)
+{{% resource_link 14b400f0-1f0d-19af-2039-f2c34a663283 "In-class survey: annotated bibliography and interim study (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -276,9 +278,9 @@ Expansion, growth, and unmet needs
 {{< tdopen >}}
 
 
-[Readings]({{< baseurl >}}/pages/readings/#read10) and _Empowering Lives in Kenya_ case prep
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read10" %}} and _Empowering Lives in Kenya_ case prep
 
-[In-class survey: professional development (PDF)]({{< baseurl >}}/resources/mit15_s07s13_profdevchk)
+{{% resource_link ff4cf36e-e0a7-433f-21ae-0cbe0d3d63fb "In-class survey: professional development (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -354,7 +356,7 @@ Debrief: highlights, challenges, surprises
 
 Prepare for mentor meeting
 
-[In-class survey: return from site visits (PDF)]({{< baseurl >}}/resources/mit15_s07s13_posttripchk)
+{{% resource_link 68704f55-c476-48f1-afca-a675dc575e90 "In-class survey: return from site visits (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -389,7 +391,7 @@ _Panelists_: Jim Cohick, Senior Vice President of Specialty Programs at Cure Int
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read13)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read13" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +406,7 @@ S14
 Management matters, revisited
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read14)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read14" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +434,7 @@ S15
 Healthcare delivery challenges and opportunities
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings]({{< baseurl >}}/pages/readings/#read15)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read15" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +464,7 @@ Grand class finale with distinguished guests
 {{< tdopen >}}
 
 
-[Readings]({{< baseurl >}}/pages/readings/#read16)
+{{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" "#read16" %}}
 
 Invite a first-year student as a guest to the class finale
 

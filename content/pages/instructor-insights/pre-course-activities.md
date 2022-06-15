@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares details about the activities that
+  take place before the actual start of the course in the spring.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

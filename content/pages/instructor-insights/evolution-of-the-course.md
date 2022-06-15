@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Dr. Sastry describes two of the changes she has made
+  to the course since it was first offered, as well as the motivations behind those
+  changes.  '
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +15,7 @@ uid: e7144194-7217-3f8e-4991-6a06d77ad9a6
 
 _In this section, Dr. Sastry describes two of the changes she has made to the course since it was first offered, as well as the motivations behind those changes._
 
-![Map of Africa and India with destinations marked.]({{< resource_file 6fbcebb7-9bc5-23eb-b6f4-4c46df9a670e >}})
+{{< resource 6fbcebb7-9bc5-23eb-b6f4-4c46df9a670e >}}
 
 Project sites for GlobalHealth Lab from 2008–2013. Map data ©2013 Google. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/help/faq-fair-use/](/help/faq-fair-use/)
 

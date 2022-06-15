@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s07-globalhealth-lab-spring-2013/4721537616bf1561ccc432c598a740a1_MIT15_S07S13_sloanportfol.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/4721537616bf1561ccc432c598a740a1_MIT15_S07S13_sloanportfol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

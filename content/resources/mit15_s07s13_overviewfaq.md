@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s07-globalhealth-lab-spring-2013/141cc9b0941cfa352671d0749a3955f8_MIT15_S07S13_overviewFAQ.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/141cc9b0941cfa352671d0749a3955f8_MIT15_S07S13_overviewFAQ.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

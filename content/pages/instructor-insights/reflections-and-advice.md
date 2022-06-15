@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares insights and recommendations for educators
+  who may be interested in planning and running a course similar to GlobalHealth Lab.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

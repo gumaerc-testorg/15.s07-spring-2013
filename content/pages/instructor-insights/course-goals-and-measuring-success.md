@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares insights about balancing the course
+  content, as well as setting goals at the start of the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

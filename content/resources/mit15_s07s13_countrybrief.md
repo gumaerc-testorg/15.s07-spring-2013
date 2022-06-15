@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s07-globalhealth-lab-spring-2013/9c9f18732b5bd7d4838f8757388b863e_MIT15_S07S13_countrybrief.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/9c9f18732b5bd7d4838f8757388b863e_MIT15_S07S13_countrybrief.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

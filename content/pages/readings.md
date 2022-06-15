@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the required and optional readings, as well as
+  cases, for each class session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 1601f42d-e42f-e62f-c909-bc0f6e6bdd73
 ---
 
-In the following table are the required and optional readings, as well as cases, for each class session. Over January prior to the course's start, students are required to read one book from the [list of selected books on global health, healthcare in low-resource settings, and related policy contexts (PDF)]({{< baseurl >}}/resources/mit15_s07s13_janreadlist).
+In the following table are the required and optional readings, as well as cases, for each class session. Over January prior to the course's start, students are required to read one book from the {{% resource_link 421bc14c-d9d6-07ef-d355-8ed41e79f58d "list of selected books on global health, healthcare in low-resource settings, and related policy contexts (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -39,7 +41,7 @@ S1
 
 Karnani, Aneel, Bernard Garrette, et al. "[Better Vision for the Poor](http://www.ssireview.org/articles/entry/better_vision_for_the_poor)." _Stanford Social Innovation Review,_ Spring 2011, 66–71.
 
-Fred Hollows Foundation, IAPB, and Australian Government. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Eye health: Building a vision for health systems and partnerships." (PDF)](http://www.icoph.org/dynamic/attachments/resources/eye_health_vision_building_health_systems_partnerships_201205.pdf) 2012.
+Fred Hollows Foundation, IAPB, and Australian Government. ["Eye health: Building a vision for health systems and partnerships." (PDF)](http://www.icoph.org/dynamic/attachments/resources/eye_health_vision_building_health_systems_partnerships_201205.pdf) 2012.
 
 
 {{< tdclose >}}
@@ -71,7 +73,7 @@ Malkin, Robert A. "[Design of Health Care Technologies for the Developing World]
 
 Blaya, Joaquin A., Hamish S. F. Fraser, et al. "[E-Health Technologies Show Promise in Developing Countries](http://dx.doi.org/10.1377/hlthaff.2009.0894)." _Health Affairs_ (2010): 244–51.
 
-Peterson, Kyle, Samuel Kim, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Competing by Saving Lives: How Pharmaceutical and Medical Device Companies Create Shared Value in Global Health." (PDF - 2.4 MB)](https://www.hbs.edu/faculty/Pages/item.aspx?num=46696) _FSG Report_ (2012).
+Peterson, Kyle, Samuel Kim, et al. "[Competing by Saving Lives: How Pharmaceutical and Medical Device Companies Create Shared Value in Global Health." (PDF - 2.4 MB)](https://www.hbs.edu/faculty/Pages/item.aspx?num=46696) _FSG Report_ (2012).
 
 
 {{< tdclose >}}
@@ -91,7 +93,7 @@ S3
 
 Berwick, Donald M. "[A User's Manual for the IOM's 'Quality Chasm' Report](http://dx.doi.org/10.1377/hlthaff.21.3.80)." _Health Affairs_ 21, no. 3 (2002): 80–90.
 
-The IWG Taskforce on Sustainable Business Models. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Fostering Healthy Businesses: Delivering Innovations in Maternal and Child Health." (PDF)](http://www.who.int/pmnch/activities/jointactionplan/tf3_business_models.pdf) _Innovation Working Group Report_ (2012).
+The IWG Taskforce on Sustainable Business Models. ["Fostering Healthy Businesses: Delivering Innovations in Maternal and Child Health." (PDF)](http://www.who.int/pmnch/activities/jointactionplan/tf3_business_models.pdf) _Innovation Working Group Report_ (2012).
 
 ### Optional Readings
 
@@ -279,7 +281,7 @@ S10
 
 ### Case
 
-Cassleman, Paul, Burt LaFountain, et al. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Empowering Lives in Kenya: The Chebaiywa Clinic." (PDF)](https://mitsloan.mit.edu/LearningEdge/CaseDocs/09-094%20ELI%20case%20Sastry.pdf) MIT Sloan School of Management case. MIT Sloan School of Management. Case: 09–094, August 13, 2009.
+Cassleman, Paul, Burt LaFountain, et al. ["Empowering Lives in Kenya: The Chebaiywa Clinic." (PDF)](https://mitsloan.mit.edu/LearningEdge/CaseDocs/09-094%20ELI%20case%20Sastry.pdf) MIT Sloan School of Management case. MIT Sloan School of Management. Case: 09–094, August 13, 2009.
 
 ### Optional reading
 
@@ -355,7 +357,7 @@ Bae, Jin Yung, Reinou S. Groen, et al. ["Surgery as a public health intervention
 
 Li, Shirley, Rachna Pande, et al. "[SmileTrain: What's next when mission is accomplished?](http://globalhealth.mit.edu/smiletrain/)" Business models for global health: Smile Train Report (2010).
 
-———. ["![This resource may not render correctly in a screen reader.](/images/inacessible.gif)SmileTrain India: Assessment and Vision." (PDF)](http://globalhealth.mit.edu/wp-content/uploads/2011/04/Smile-Train-India-pdf.pdf) Presentation for board of directors, December 2, 2010.
+———. ["SmileTrain India: Assessment and Vision." (PDF)](http://globalhealth.mit.edu/wp-content/uploads/2011/04/Smile-Train-India-pdf.pdf) Presentation for board of directors, December 2, 2010.
 
  Dubner, Stephen J, and Steven D Levitt. "[Bottom-Line Philanthropy](http://www.nytimes.com/2008/03/09/magazine/09WWLN-freakonomics-t.html)." _New York Times_, March 9, 2008.
 
