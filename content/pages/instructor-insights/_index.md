@@ -1,21 +1,21 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 ---
+## Course Overview
 
-Course Overview
----------------
-
-This page focuses on the course 15.S07 _GlobalHealth Lab_ as it was taught by Dr. Anjali Sastry in Spring 2013. This course is now offered under the permanent course number 15.233.
+This page focuses on the course _15.S07_ _GlobalHealth Lab_ as it was taught by Dr. Anjali Sastry in Spring 2013. This course is now offered under the permanent course number 15.233.
 
 GlobalHealth Lab is a graduate course structured around both classroom learning and action-based field projects in which teams of students collaborate with host organizations to develop sustainable improvements that address real limitations to health care delivery. Students start by conducting research, developing topical briefings, and planning their fieldwork before they spend two weeks at the sites of their respective host organizations. When on site, students engage with the enterprise and the local community in carrying out their work plans. Upon returning, students are then asked to reflect on their experiences and lessons learned in the field to better define needs in global health delivery. Since its first offering in 2008, GlobalHealth Lab has seen over 40 such projects in sub-Saharan Africa and South Asia. The course is part of [Action Learning at MIT Sloan](http://mitsloan.mit.edu/actionlearning/), but is open to all interested MIT graduate students.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -27,28 +27,26 @@ Students in the course have often already determined a career path. Many, howeve
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "If you want to do these intensive action learning projects, you have to develop an orientation toward both student learning and benefits to the partnering organizations." "—Dr. Anjali Sastry" >}}
 
-In the following pages, Dr. Sastry describes various aspects of planning, teaching, and running 15.S07 _GlobalHealth Lab_.
+In the following pages, Dr. Sastry describes various aspects of planning, teaching, and running _15.S07_ _GlobalHealth Lab_.
 
-*   [Course Goals and Measuring Success]({{< baseurl >}}/pages/instructor-insights/course-goals-and-measuring-success)
-*   [Pre-course Activities]({{< baseurl >}}/pages/instructor-insights/pre-course-activities)
-*   [Collaboration with Partner Organizations]({{< baseurl >}}/pages/instructor-insights/collaboration-with-partner-organizations)
-*   [Pre-trip Deliverables]({{< baseurl >}}/pages/instructor-insights/pre-trip-deliverables)
-*   [Post-trip Work]({{< baseurl >}}/pages/instructor-insights/post-trip-work)
-*   [Evolution of the Course]({{< baseurl >}}/pages/instructor-insights/evolution-of-the-course)
-*   [Reflections and Advice]({{< baseurl >}}/pages/instructor-insights/reflections-and-advice)
-*   [Applications Beyond the Course]({{< baseurl >}}/pages/instructor-insights/applications-beyond-the-course)
+- {{% resource_link 2364f2ee-45d9-3648-eaf6-a1c5265391dc "Course Goals and Measuring Success" %}}
+- {{% resource_link 7f3566e3-50e6-d8ac-1998-bc145b7b5121 "Pre-course Activities" %}}
+- {{% resource_link 20597891-b286-88ee-357b-da6fdba1d86e "Collaboration with Partner Organizations" %}}
+- {{% resource_link 01b61425-8619-596a-c333-24796b9e4e49 "Pre-trip Deliverables" %}}
+- {{% resource_link e702a1f5-1b29-364d-5e70-ac34ffea7063 "Post-trip Work" %}}
+- {{% resource_link e7144194-7217-3f8e-4991-6a06d77ad9a6 "Evolution of the Course" %}}
+- {{% resource_link d74125d9-2238-a20c-d484-c453b721c3ce "Reflections and Advice" %}}
+- {{% resource_link cad09ac0-4718-423b-a9fa-221959f7b04a "Applications Beyond the Course" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-No previous coursework required. However, interested students must undergo the [application and interview process]({{< baseurl >}}/pages/instructor-insights/pre-course-activities#application) in the preceding fall.
+No previous coursework required. However, interested students must undergo the {{% resource_link 7f3566e3-50e6-d8ac-1998-bc145b7b5121 "application and interview process" "#application" %}} in the preceding fall.
 
 ### Requirements Satisfied
 
@@ -60,18 +58,19 @@ Every spring semester
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 47 students take this course each year.]({{< resource_file e94bcf1e-5f9b-e095-e34d-99c0f79067fe >}})
+### Enrollment
+
+47 students
 
 ### Breakdown by Program
 
 The students in this class come from a variety of programs, as the course is not restricted to Sloan School of Management:
 
-*   Masters students from Engineering disciplines
-*   MBAs and PhDs from Sloan School of Management
-*   PhDs from Health Sciences and Technology (HST) and Science, Technology, and Society (STS)
+- Masters students from Engineering disciplines
+- MBAs and PhDs from Sloan School of Management
+- PhDs from Health Sciences and Technology (HST) and Science, Technology, and Society (STS)
 
 ### Typical Student Background
 
@@ -83,30 +82,26 @@ The course usually runs with 40–50 participants with the logistics of the cour
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 This course is offered during the spring semester, but accepted students are expected to initiate contact with their host organizations in the preceding December. Research carries through IAP, and students are required to work full-time for the two weeks that they spend on site. Students work through SIP for which they will receive two units in addition to the class’s 12 units. During an average week in the spring semester, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Two 1.5-hour [lectures]({{< baseurl >}}/pages/lecture-notes) per week
-*   16 class sessions in total, with additional mentor/team meetings
-*   Occasional hour-long lunch sessions for trip and project logistics
+- Two 1.5-hour {{% resource_link 3682febb-c6a8-5c41-3d0a-fb78b4019874 "lectures" %}} per week
+- 16 class sessions in total, with additional mentor/team meetings
+- Occasional hour-long lunch sessions for trip and project logistics
 
-Out of Class
-------------
+### Out of Class
 
-*   Team meetings
-*   [Readings]({{< baseurl >}}/pages/readings) in preparation for class
-*   Workplan and other [project deliverables]({{< baseurl >}}/pages/assignments)
-*   On-site fieldwork (full-time for two weeks)
+- Team meetings
+- {{% resource_link 1601f42d-e42f-e62f-c909-bc0f6e6bdd73 "Readings" %}} in preparation for class
+- Workplan and other {{% resource_link a3b128d8-e8d1-84e7-f370-f97e36e8b3ba "project deliverables" %}}
+- On-site fieldwork (full-time for two weeks)
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Lead Instructor (Dr. Anjali Sastry)
 
