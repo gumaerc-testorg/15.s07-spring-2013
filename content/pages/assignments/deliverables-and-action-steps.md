@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides the schedule of due dates for deliverables and
+  action steps for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a3b128d8-e8d1-84e7-f370-f97e36e8b3ba
 title: Deliverables and Action Steps
 uid: 564190aa-addb-75cb-a44f-633498ae2eb9
@@ -49,11 +55,11 @@ Complete the quick visa survey
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 1  
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week of  
  
 {{< tdclose >}}
@@ -93,7 +99,7 @@ WedUp 1
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Friday  
  
 {{< tdclose >}}
@@ -115,10 +121,10 @@ Organizational profile
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week of  
  
 {{< tdclose >}}
@@ -170,13 +176,13 @@ Workplan draft
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 3
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week of  
  
 {{< tdclose >}}
@@ -222,7 +228,7 @@ Send workplan to host and copy mentor; obtain host agreement
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -273,13 +279,13 @@ Country briefing
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 5
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week of  
  
 {{< tdclose >}}
@@ -331,10 +337,10 @@ Annotated bibliography
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week of  
  
 {{< tdclose >}}
@@ -380,7 +386,7 @@ Pre-trip interim study
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 
@@ -431,7 +437,7 @@ WedUp 8
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -482,7 +488,7 @@ Full set of on-site materials
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 10
 {{< tdclose >}}
 
@@ -536,7 +542,7 @@ One-page executive summary
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -563,7 +569,7 @@ Completed project distilling learning from the field
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 
@@ -593,7 +599,7 @@ Final deliverables: project wrap-up component, and open letter to host
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}

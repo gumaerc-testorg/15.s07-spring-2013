@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a course overview and information on meeting times,
+  enrollment and expectations, the team project, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2354f691-c344-3414-8013-73c49d1944e8
 ---
@@ -25,11 +29,11 @@ We developed our unique responsive problem-based approach to meet our partners' 
 Enrollment and Expectations
 ---------------------------
 
-This course is open to graduate students only. Admission is by application and interview in the preceding November. Students interested in this course are provided with the [Overview and FAQ (PDF)]({{< baseurl >}}/resources/mit15_s07s13_overviewfaq) that addresses common questions and the application process.
+This course is open to graduate students only. Admission is by application and interview in the preceding November. Students interested in this course are provided with the {{% resource_link 141cc9b0-941c-fa35-2671-d0749a3955f8 "Overview and FAQ (PDF)" %}} that addresses common questions and the application process.
 
 Enrolled students must be available to work on site in Africa or India for two weeks starting from mid-March. Students are required to complete all segments of the course, including class sessions, team meetings that take place in lieu of class, and mentor meetings.
 
-A more detailed description of student responsibilities, commitments, and work expectations are listed on the [Course Expectations]({{< baseurl >}}/pages/syllabus/course-expectations) page.
+A more detailed description of student responsibilities, commitments, and work expectations are listed on the {{% resource_link d54ec244-9b96-389a-e4e4-be50d2e06c64 "Course Expectations" %}} page.
 
 The Team Project
 ----------------
@@ -93,4 +97,4 @@ Sloan portfolio
 
 {{< tableclose >}}
 
-A more detailed description of the assignment components and schedule of deliverables are provided on the [Assignments]({{< baseurl >}}/pages/assignments) page.
+A more detailed description of the assignment components and schedule of deliverables are provided on the {{% resource_link a3b128d8-e8d1-84e7-f370-f97e36e8b3ba "Assignments" %}} page.

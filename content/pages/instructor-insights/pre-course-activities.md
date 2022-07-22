@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares details about the activities that
+  take place before the actual start of the course in the spring.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Pre-course Activities
 uid: 7f3566e3-50e6-d8ac-1998-bc145b7b5121

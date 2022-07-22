@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture slides, teaching plans, and discussion
+  notes used for each class session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 3682febb-c6a8-5c41-3d0a-fb78b4019874
 ---
@@ -30,7 +35,7 @@ RESOURCES
 Visions for the course and vision in global health
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_s07s13_lec1)
+{{% resource_link cf168f89-1845-403f-f2b6-d2d70fb86c4e "Lecture slides (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Visions for the course and vision in global health
 Technology and strategy: an alum’s perspective
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec2)
+{{% resource_link dba5587b-1f98-ee2b-0431-91d0f134c567 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Technology and strategy: an alum’s perspective
 Global health overview
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 3.0MB)]({{< baseurl >}}/resources/mit15_s07s13_lec3)
+{{% resource_link 0a41520d-67ee-0888-ae61-f4f466af83bd "Lecture slides (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Global health overview
 Process improvement
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec4)
+{{% resource_link 56a7f492-e281-79df-8668-64f1a71a3193 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Process improvement
 Data and measurement
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec5)
+{{% resource_link 7b93625f-add9-3432-5c44-98b49d4066f3 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Data and measurement
 HR, job design, and task shifting
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec6)
+{{% resource_link 78253109-5762-2484-5258-ee83e2c73796 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,9 +109,9 @@ Management matters
 {{< tdopen >}}
 
 
-[Teaching plan (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec7teachplan)
+{{% resource_link be285840-d21d-c6ff-a120-85248374a451 "Teaching plan (PDF)" %}}
 
-[Discussion notes (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec7notes) (Courtesy of Ariella Dagi. Used with permission.)
+{{% resource_link 47bc6551-45ae-9bca-9a11-1bfc874a8f7a "Discussion notes (PDF)" %}} (Courtesy of Ariella Dagi. Used with permission.)
 
 
 {{< tdclose >}}
@@ -120,7 +125,7 @@ Management matters
 Health commodities and distribution
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec8)
+{{% resource_link b57be16c-7278-c30b-9940-b93372f77655 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +137,7 @@ Health commodities and distribution
 Finance and revenue models
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit15_s07s13_lec9)
+{{% resource_link 61bdd40f-22a5-4742-32ed-863e02aeadc3 "Lecture slides (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ Finance and revenue models
 Expansion, growth, and unmet needs
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_s07s13_lec10)
+{{% resource_link 54fe3cdc-a523-6a1d-4e88-b4b64eb03310 "Lecture slides (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ Expansion, growth, and unmet needs
 Leading change and innovation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec11)
+{{% resource_link b5b6b943-b1ce-1675-25b3-59bf995ba9fd "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Leading change and innovation
 Debrief: highlights, challenges, surprises
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec12)
+{{% resource_link da60b440-9fc3-faa4-e2ee-55beda9b231f "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +185,7 @@ Debrief: highlights, challenges, surprises
 Global health innovators panel
 {{< tdclose >}}
 {{< tdopen >}}
-[Teaching plan (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec13teachplan)
+{{% resource_link 10ab0038-d57d-7718-0ff5-c3aa845c4a9f "Teaching plan (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +197,7 @@ Global health innovators panel
 Management matters, revisited
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion notes (PDF)]({{< baseurl >}}/resources/mit15_s07s13_lec14notes)
+{{% resource_link dab7c373-df6c-5875-dee3-750a2859b057 "Discussion notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,7 +209,7 @@ Management matters, revisited
 Healthcare delivery challenges and opportunities
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit15_s07s13_lec15)
+{{% resource_link 57fe7984-be8c-66e7-76a6-d285c121f1e9 "Lecture slides (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

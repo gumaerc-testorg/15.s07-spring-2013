@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides information on course expectations, including admission
+  to the course, professionalism, team dynamics, making the most of the course team,
+  attendance, class preparation, expenses, workload, respecting copyright, confidentiality,
+  and privacy, assignments, and values.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 2354f691-c344-3414-8013-73c49d1944e8
 title: Course Expectations
 uid: d54ec244-9b96-389a-e4e4-be50d2e06c64
 ---
 
-This course is open to graduate students only. Admission is by application and interview in the preceding November. To learn more about the application process and the process of matching students to projects, refer to Dr. Sastry's insights regarding [Pre-course Activities]({{< baseurl >}}/pages/instructor-insights/pre-trip-deliverables).
+This course is open to graduate students only. Admission is by application and interview in the preceding November. To learn more about the application process and the process of matching students to projects, refer to Dr. Sastry's insights regarding {{% resource_link 01b61425-8619-596a-c333-24796b9e4e49 "Pre-course Activities" %}}.
 
 In the World, For the World
 ---------------------------
@@ -35,7 +42,7 @@ Please note that no student has an automatic right to travel in March. The on-si
 Make the Most of the Course Team
 --------------------------------
 
-We are here to help. If you need more content on any issue, talk with us and we will help you get what you need. We have great resources and contacts to share. Each team works with a specific faculty member as advisor to the team on substantive and process issues. Your team will also be supported by our TA. Your team meets with its mentor periodically, usually biweekly, to monitor progress. Meetings may be scheduled during designated class time or outside class. We plan mentor meetings to support both learning and execution in your project. In some sessions you may draw upon worksheets and checklists. To learn more about the specific responsibilities of the members forming the course team, refer to [Course Team Roles]({{< baseurl >}}/pages/instructor-insights#roles).
+We are here to help. If you need more content on any issue, talk with us and we will help you get what you need. We have great resources and contacts to share. Each team works with a specific faculty member as advisor to the team on substantive and process issues. Your team will also be supported by our TA. Your team meets with its mentor periodically, usually biweekly, to monitor progress. Meetings may be scheduled during designated class time or outside class. We plan mentor meetings to support both learning and execution in your project. In some sessions you may draw upon worksheets and checklists. To learn more about the specific responsibilities of the members forming the course team, refer to {{% resource_link c7dc5b7f-248d-ae6b-71d8-d564ab3927e5 "Course Team Roles" "#roles" %}}.
 
 Attendance
 ----------

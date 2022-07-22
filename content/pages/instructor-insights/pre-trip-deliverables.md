@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares the intentions behind the three components
+  of the pre-trip assignments that the student teams deliver to their respective host
+  organizations.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Pre-trip Deliverables
 uid: 01b61425-8619-596a-c333-24796b9e4e49
 ---
 
-_In this section, Dr. Sastry shares the intentions behind the three components of the pre-trip [assignments]({{< baseurl >}}/pages/assignments) that the student teams deliver to their respective host organizations._
+_In this section, Dr. Sastry shares the intentions behind the three components of the pre-trip {{% resource_link a3b128d8-e8d1-84e7-f370-f97e36e8b3ba "assignments" %}} that the student teams deliver to their respective host organizations._
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,12 +33,12 @@ In preparing for the trip, as well as in reflecting upon the on-site work, stude
 
 For mentors:
 
-*   [Mentor Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-template)
-*   [Mentor Meeting Schedule and Details (PDF)]({{< baseurl >}}/resources/mit15_s07s13_mentor-schedule)
+*   {{% resource_link 0a75ad51-c054-e9ac-7acb-55bbaa591e4a "Mentor Template for Notes from Mentor Meetings (PDF)" %}}
+*   {{% resource_link a5b9d970-4905-4d06-bb26-ec5bf2abb9d0 "Mentor Meeting Schedule and Details (PDF)" %}}
 
 For students:
 
-*   [Student Template for Notes from Mentor Meetings (PDF)]({{< baseurl >}}/resources/mit15_s07s13_student-template)
+*   {{% resource_link c7661d14-563e-7005-01b4-2b79607ce3af "Student Template for Notes from Mentor Meetings (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +57,7 @@ Annotated Bibliography
 
 The people we work with are trained doctors and nurses who are now doing double-duty as managers and leaders, and their time is precious. It is not easy for them to read lots of literature to glean new ideas. One way we help in this area is by arriving at every site with a small collection of curated resources. This could be five journal articles about how to apply thinking about service delivery in the consumer sector for health care, or research on new methods of using mobile health tools for maternal health issues. Whatever that collection is, even if they are not all spot-on, partners tend to say that it is helpful to have that small curated set of papers along with the students’ annotations. The literature review gives a consistent framework and some research-based ideas that we can further explore. Students can appreciate the work, the challenge, and the opportunity of going from research to an idea, to a paper, to practice. The whole arc of the course is actually right there in those elements.
 
-![MIT15_S07S13_pt-flow.jpg]({{< resource_file 232abddd-b939-5ec4-4b45-a193095f41d2 >}})
+{{< resource 232abddd-b939-5ec4-4b45-a193095f41d2 >}}
 
 Students from one team analyzed patient flow and operations at a local hospital in Boston as part of their interim study. Figure courtesy of Ali S. Kamil, Dmitriy E. Lyan, Nicole Yap, and MIT Student. Used with permission.
 

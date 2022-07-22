@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares insights and recommendations for educators
+  who may be interested in planning and running a course similar to GlobalHealth Lab.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Reflections and Advice
 uid: d74125d9-2238-a20c-d484-c453b721c3ce

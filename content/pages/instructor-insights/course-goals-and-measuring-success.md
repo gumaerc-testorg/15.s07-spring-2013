@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares insights about balancing the course
+  content, as well as setting goals at the start of the course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Course Goals and Measuring Success
 uid: 2364f2ee-45d9-3648-eaf6-a1c5265391dc

@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry shares insights into the relevance of the
+  course to the MIT community and beyond.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Applications Beyond the Course
 uid: cad09ac0-4718-423b-a9fa-221959f7b04a
@@ -9,7 +14,7 @@ uid: cad09ac0-4718-423b-a9fa-221959f7b04a
 
 _In this section, Dr. Sastry shares insights into the relevance of the course to the MIT community and beyond._
 
-![People speaking in front of a poster]({{< resource_file 8ca20e49-3b77-7bc9-a716-68ee0bad4ffb >}})
+{{< resource 8ca20e49-3b77-7bc9-a716-68ee0bad4ffb >}}
 
 All Sloan Action Lab teams presented their projects and shared their experiences in a program-wide poster session. Image courtesy of MIT OpenCourseWare.
 

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry describes the work that happens after students
+  return from their on-site visits and the value in this kind of reflection after
+  travel.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 title: Post-trip Work
 uid: e702a1f5-1b29-364d-5e70-ac34ffea7063
@@ -9,7 +15,7 @@ uid: e702a1f5-1b29-364d-5e70-ac34ffea7063
 
 _In this section, Dr. Sastry describes the work that happens after students return from their on-site visits and the value in this kind of reflection after travel._
 
-![Students speaking with an invited guest.]({{< resource_file 286bcf15-bb93-2cfc-7751-e148ff62b9bf >}})
+{{< resource 286bcf15-bb93-2cfc-7751-e148ff62b9bf >}}
 
 At the class finale, students had the opportunity to present their projects to a panel of esteemed guests. Image courtesy of MIT OpenCourseWare.
 
