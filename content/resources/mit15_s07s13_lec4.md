@@ -5,6 +5,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/56a7f492e28179df866864f1a71a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 4 Slides: Process Improvement'
 uid: 56a7f492-e281-79df-8668-64f1a71a3193
 ---
 This file contains information regarding process improvement.
-

@@ -6,6 +6,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/421bc14cd9d607efd3558ed41e79f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,5 +17,3 @@ title: 'January Reading List: Selected books on global health, healthcare in low
 uid: 421bc14c-d9d6-07ef-d355-8ed41e79f58d
 ---
 This file contains information regarding list of selected books on global health, healthcare in low-resource settings, and related policy contexts.
-
-

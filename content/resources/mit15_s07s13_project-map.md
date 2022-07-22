@@ -9,6 +9,7 @@ image_metadata:
     \ from our Creative Commons license. For more information, see http://ocw.mit.edu/help/faq-fair-use/"
   image-alt: Map of Africa and India with destinations marked.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Evolution of the Course
 parent_type: CourseSection

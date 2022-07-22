@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseware.
   image-alt: Students speaking with an invited guest.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Post-trip Work
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: MIT15_S07S13_class-finale.jpg
 uid: 286bcf15-bb93-2cfc-7751-e148ff62b9bf
 ---
 At the class finale, students had the opportunity to present their projects to a panel of esteemed guests. 
-

@@ -5,6 +5,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/8e56bba6faa797546ae56bbec9b4d
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Spring 2013 Project Overviews
 uid: 8e56bba6-faa7-9754-6ae5-6bbec9b4d329
 ---
 Overviews and descriptions of the Spring 2013 projects.
-

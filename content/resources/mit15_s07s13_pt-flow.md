@@ -10,6 +10,7 @@ image_metadata:
     Used with permission.
   image-alt: A timetable of scheduled patient operations.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Pre-trip Deliverables
 parent_type: CourseSection

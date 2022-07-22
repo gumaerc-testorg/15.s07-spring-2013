@@ -6,6 +6,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/dba5587b1f98ee2b043191d0f134c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 2 Slides: Technology and Strategy'
 uid: dba5587b-1f98-ee2b-0431-91d0f134c567
 ---
 This file contains information regarding technology and strategy: an alum’s perspective.
-

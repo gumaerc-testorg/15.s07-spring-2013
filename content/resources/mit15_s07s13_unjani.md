@@ -13,6 +13,7 @@ image_metadata:
     Nicholas Sze. Used with permission.
   image-alt: Patients sitting outside of a clinic.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Unjani Clinic
 parent_type: CourseSection

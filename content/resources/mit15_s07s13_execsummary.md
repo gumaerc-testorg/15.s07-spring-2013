@@ -5,6 +5,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/8841ac55032df6f32d4f8310f61b5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: People speaking in front of a poster.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Applications Beyond the Course
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: MIT15_S07S13_poster.jpg
 uid: 8ca20e49-3b77-7bc9-a716-68ee0bad4ffb
 ---
 All Action Lab teams presented their projects and shared their experiences in a program-wide poster session.
-

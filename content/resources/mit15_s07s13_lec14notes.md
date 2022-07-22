@@ -5,6 +5,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/dab7c373df6c5875dee3750a2859b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 14 Discussion Notes: Management Matters, Revisited'
 uid: dab7c373-df6c-5875-dee3-750a2859b057
 ---
 This file contains information regarding management matters, revisited.
-

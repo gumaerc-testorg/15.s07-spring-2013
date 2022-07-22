@@ -5,6 +5,7 @@ file: /courses/15-s07-globalhealth-lab-spring-2013/78253109576224845258ee83e2c73
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 6 Slides: HR, Job Design, and Task Shifting'
 uid: 78253109-5762-2484-5258-ee83e2c73796
 ---
 This file contains information regarding hr, job design, and task shifting.
-
