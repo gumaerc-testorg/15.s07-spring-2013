@@ -21,7 +21,7 @@ All Sloan Action Lab teams presented their projects and shared their experiences
 Sharing with the MIT Community
 ------------------------------
 
-For specific tools and approaches linked with our projects, we want to continue to field-test our approaches and document them in ways that are useful to others. We are trying to build up a body of evidence about their use. There are broader issues, such as the lessons about running a course like this, and the link between context and business model, which we would like to document and share. For methods related to teaching or course mechanics, we can share and learn from our own umbrella of [Action Learning programs](http://mitsloan.mit.edu/actionlearning/) offered at Sloan. This allows us to coordinate with others and have a staff to support our work and disseminate ideas, on the educational front as well as the logistical front.
+For specific tools and approaches linked with our projects, we want to continue to field-test our approaches and document them in ways that are useful to others. We are trying to build up a body of evidence about their use. There are broader issues, such as the lessons about running a course like this, and the link between context and business model, which we would like to document and share. For methods related to teaching or course mechanics, we can share and learn from our own umbrella of {{% resource_link "acfc542c-8c53-4ea6-a8cc-ece3fe1a0dd5" "Action Learning programs" %}} offered at Sloan. This allows us to coordinate with others and have a staff to support our work and disseminate ideas, on the educational front as well as the logistical front.
 
 Further Applications
 --------------------

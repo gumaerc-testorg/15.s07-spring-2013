@@ -26,14 +26,14 @@ If I can scrape together enough money for airfare, I send a student during the s
 When we plan projects, we want to have more projects than student teams so that students can choose to work in an area of interest. This also means, inevitably, that some of our partners will be disappointed, and that is something I take very seriously because they put work into this. I think very carefully about how many excess projects I want to have, how I will manage that disappointment, what it will mean for unselected partners, and our relationship, and so on. This is one of the hardest parts of running a class like this.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}MIT Connections{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-- [Innovations for International Health](https://littledevicesatmit.wordpress.com/2009/01/)
-- [Abdul Latif Jameel Poverty Action Lab](http://www.povertyactionlab.org/)
-- [The Harvard-MIT Division of Health Sciences & Technology](http://hst.mit.edu/)
-- [Sustainability@MIT Sloan](http://mitsloan.mit.edu/sustainability/)
-- [Legatum Center for Development & Entrepreneurship](http://www.lcde.org/)
-- [XPrize Lab @ MIT](https://news.mit.edu/2013/innovation-prizes)
-- [MIT Public Service Center](https://pkgcenter.mit.edu/)
-- [The Broad Institute](http://www.broad.mit.edu/index.html)
+- {{% resource_link "7fab9a78-9d98-4471-89bf-108cf40e05c5" "Innovations for International Health" %}}
+- {{% resource_link "88292807-91df-4113-b5b6-8c4eb9cfb05f" "Abdul Latif Jameel Poverty Action Lab" %}}
+- {{% resource_link "f591faf3-7665-4b9f-85ca-2152920b9c99" "The Harvard-MIT Division of Health Sciences & Technology" %}}
+- {{% resource_link "6208a23a-5b65-4e1e-9dd6-d8eb1183e5f8" "Sustainability@MIT Sloan" %}}
+- {{% resource_link "0c6694b9-7ac1-4c87-8f03-6ccf0f2774ae" "Legatum Center for Development & Entrepreneurship" %}}
+- {{% resource_link "9c79213d-5bfe-4b05-9e1e-cac789a623c7" "XPrize Lab @ MIT" %}}
+- {{% resource_link "ec819b35-b913-4e4f-ba0c-cb2b7667c0cc" "MIT Public Service Center" %}}
+- {{% resource_link "872ea4b9-63ef-4f2e-acf1-befd941ce548" "The Broad Institute" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 I realize what I have created is a very high-touch course with many steps and interactions, and I think that is different. Some other project-based courses are more hands-off for the instructor, where the students and the hosts sort out everything, and that has its benefits too. I just do not think we can do that easily in GlobalHealth Lab because every year we try to partner with organizations that we have never worked or liaised with before. This means that we actually have to do quite a lot of development, and invest a lot of our own time and funds in each project. I appreciate that I get the chance to be involved in every project and visit so many of the sites.
