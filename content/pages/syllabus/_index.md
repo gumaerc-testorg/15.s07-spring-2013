@@ -18,7 +18,7 @@ There are occasionally lunch sessions and team meetings that supplement the sche
 Course Overview
 ---------------
 
-This course offers students the opportunity to learn, collaborate, and take action to address pressing challenges in providing health care to people who most need it. Now in its fifth year, this course builds on a rich MIT tradition of action learning, inspiring and valued MIT Sloan supporters, an experienced staff team, and unique collaborations with experts at the [Global Health Delivery Project](http://www.globalhealthdelivery.org/) and elsewhere who collectively enable student teams to excel in their work on the front lines of health care delivery.
+This course offers students the opportunity to learn, collaborate, and take action to address pressing challenges in providing health care to people who most need it. Now in its fifth year, this course builds on a rich MIT tradition of action learning, inspiring and valued MIT Sloan supporters, an experienced staff team, and unique collaborations with experts at the {{% resource_link "e6cd8c0e-4f93-4cfd-9982-55f69c56b3a0" "Global Health Delivery Project" %}} and elsewhere who collectively enable student teams to excel in their work on the front lines of health care delivery.
 
 Class sessions set the stage for faculty-mentored teams to work side-by-side with enterprise leaders on real-world problems related to aspects of strategy, operations, and marketing in resource-constrained settings. We take a broad view of delivery to include in our consideration business models, strategy, and partnerships, as well as a range of factors that shape patients' access to and use of care. Our partner host enterprises on the front lines of delivering health care set the focus for each project. Spring 2013 projects are in Kenya, Zambia, Tanzania, South Africa, Bangladesh, Nepal, and India.
 
@@ -90,7 +90,7 @@ Host portfolio
 Sloan portfolio
 {{< tdclose >}}
 {{< tdopen >}}
-20%; [Sloan Innovation Period (SIP)](http://mitsloan.mit.edu/student-blogs/mfin-2015/sloan-innovation-period-sip/) credit
+20%; {{% resource_link "b4eae612-b1d3-4eae-bb30-23d96feb7857" "Sloan Innovation Period (SIP)" %}} credit
 {{< tdclose >}}
 
 {{< trclose >}}
