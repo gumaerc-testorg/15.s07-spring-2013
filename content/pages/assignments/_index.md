@@ -60,7 +60,7 @@ To learn about the motivations behind the work plan, bibliography, and interim s
 Sloan Portfolio (20% of grade; SIP credit)
 ------------------------------------------
 
-The {{% resource_link 47215376-16bf-1561-ccc4-32c598a740a1 "Sloan portfolio (PDF)" %}} is designed in part to meet the [MIT Sloan Innovation Period (SIP)](http://mitsloan.mit.edu/student-blogs/mfin-2015/sloan-innovation-period-sip/) requirements and will be completed in pairs. You must select your plan by the end of Week 2, and complete the assignment by the end of Week 11. The aim is to distill your experience and insights to tell a story about your project in a compelling way that gets you, and others, excited. Within each team, select one visual option and one written option.
+The {{% resource_link 47215376-16bf-1561-ccc4-32c598a740a1 "Sloan portfolio (PDF)" %}} is designed in part to meet the {{% resource_link "b4eae612-b1d3-4eae-bb30-23d96feb7857" "MIT Sloan Innovation Period (SIP)" %}} requirements and will be completed in pairs. You must select your plan by the end of Week 2, and complete the assignment by the end of Week 11. The aim is to distill your experience and insights to tell a story about your project in a compelling way that gets you, and others, excited. Within each team, select one visual option and one written option.
 
 ### Visual
 
