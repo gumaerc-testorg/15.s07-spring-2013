@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/4825764474c95ad46589715d7184d072_MIT15_S07S13_lvpei.jpg
+file_size: 87351
 file_type: image/jpeg
 image_metadata:
   caption: "The team used a system dynamics approach to identify key policies and\

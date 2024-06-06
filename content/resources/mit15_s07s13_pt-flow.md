@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/232abdddb9395ec44b45a193095f41d2_MIT15_S07S13_pt-flow.jpg
+file_size: 148382
 file_type: image/jpeg
 image_metadata:
   caption: Students from one team analyzed patient flow and operations at a local

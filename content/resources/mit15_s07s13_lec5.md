@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding data and measurement.
 file: /courses/15-s07-globalhealth-lab-spring-2013/7b93625fadd934325c4498b49d4066f3_MIT15_S07S13_lec5.pdf
+file_size: 698049
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
