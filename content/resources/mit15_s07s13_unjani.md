@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/7505469401151bd01b3c303ee6f0ea30_MIT15_S07S13_unjani.jpg
+file_size: 131792
 file_type: image/jpeg
 image_metadata:
   caption: During their visit, the team observed six clinics and conducted over 80

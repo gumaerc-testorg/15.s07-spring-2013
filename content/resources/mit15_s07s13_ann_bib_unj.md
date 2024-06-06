@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding annotated bibliography.
 file: /courses/15-s07-globalhealth-lab-spring-2013/9115573b3cfbbb6c50e570b38d9b4c3c_MIT15_S07S13_ann_bib_unj.pdf
+file_size: 866504
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
