@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding interim study.
 file: /courses/15-s07-globalhealth-lab-spring-2013/9735da84174d12e3cb4f30991468908d_MIT15_S07S13_inte_stu_lvp.pdf
+file_size: 545720
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

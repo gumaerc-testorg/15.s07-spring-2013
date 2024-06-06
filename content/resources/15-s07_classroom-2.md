@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/d1470d1a73b2aafbd776ebbc675679f2_15-S07_classroom-2.png
+file_size: 120768
 file_type: image/png
 image_metadata:
   caption: ''

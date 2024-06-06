@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding visions for the course and vision
   in global health.
 file: /courses/15-s07-globalhealth-lab-spring-2013/cf168f891845403ff2b6d2d70fb86c4e_MIT15_S07S13_lec1.pdf
+file_size: 1231204
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding management matters, revisited.
 file: /courses/15-s07-globalhealth-lab-spring-2013/dab7c373df6c5875dee3750a2859b057_MIT15_S07S13_lec14notes.pdf
+file_size: 302106
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

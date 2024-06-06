@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s07-globalhealth-lab-spring-2013/6fbcebb79bc523ebb6f44c46df9a670e_MIT15_S07S13_project-map.JPG
+file_size: 143379
 file_type: image/jpeg
 image_metadata:
   caption: "Project sites for GlobalHealth Lab from 2008\u20132013."
