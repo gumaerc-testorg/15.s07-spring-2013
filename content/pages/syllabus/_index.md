@@ -16,7 +16,7 @@ There are occasionally lunch sessions and team meetings that supplement the sche
 
 ## Course Overview
 
-This course offers students the opportunity to learn, collaborate, and take action to address pressing challenges in providing health care to people who most need it. Now in its fifth year, this course builds on a rich MIT tradition of action learning, inspiring and valued MIT Sloan supporters, an experienced staff team, and unique collaborations with experts at the [Global Health Delivery Project](http://www.globalhealthdelivery.org/) and elsewhere who collectively enable student teams to excel in their work on the front lines of health care delivery.
+This course offers students the opportunity to learn, collaborate, and take action to address pressing challenges in providing health care to people who most need it. Now in its fifth year, this course builds on a rich MIT tradition of action learning, inspiring and valued MIT Sloan supporters, an experienced staff team, and unique collaborations with experts at the {{% resource_link "9bc7955d-1db2-48b5-9f16-bb20b03a2c64" "Global Health Delivery Project" %}} and elsewhere who collectively enable student teams to excel in their work on the front lines of health care delivery.
 
 Class sessions set the stage for faculty-mentored teams to work side-by-side with enterprise leaders on real-world problems related to aspects of strategy, operations, and marketing in resource-constrained settings. We take a broad view of delivery to include in our consideration business models, strategy, and partnerships, as well as a range of factors that shape patients' access to and use of care. Our partner host enterprises on the front lines of delivering health care set the focus for each project. Spring 2013 projects are in Kenya, Zambia, Tanzania, South Africa, Bangladesh, Nepal, and India.
 
@@ -59,7 +59,7 @@ Host portfolio
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Sloan portfolio
 {{< tdclose >}}{{< tdopen >}}
-20%; [Sloan Intensive Period (SIP)](https://mitsloan.mit.edu/mba/academics/sloan-intensive-period) credit
+20%; {{% resource_link "155edcc2-1663-45ca-990c-333f7920a9eb" "Sloan Intensive Period (SIP)" %}} credit
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 A more detailed description of the assignment components and schedule of deliverables are provided on the {{% resource_link "a3b128d8-e8d1-84e7-f370-f97e36e8b3ba" "Assignments" %}} page.
