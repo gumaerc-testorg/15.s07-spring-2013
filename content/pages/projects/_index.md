@@ -15,7 +15,7 @@ Students apply in November for a spot in the course, and are told whether they a
 
 Below are links to the work produced by the student teams for their respective projects. Materials presented here include pre-trip, on-site, and wrap-up deliverables, as well as supporting resources.
 
-For a full list of the projects and brief descriptions offered in Spring 2013, refer to the {{% resource_link 8e56bba6-faa7-9754-6ae5-6bbec9b4d329 "project overviews (PDF)" %}}. Additional project examples and resources, as well as information about this course, can be found on the website for [Groundwork Initiative for Global Health Delivery](http://groundwork.mit.edu/).
+For a full list of the projects and brief descriptions offered in Spring 2013, refer to the {{% resource_link 8e56bba6-faa7-9754-6ae5-6bbec9b4d329 "project overviews (PDF)" %}}. Additional project examples and resources, as well as information about this course, can be found on the website for {{% resource_link "3978168e-868e-44d1-9631-2c0162306e92" "Groundwork Initiative for Global Health Delivery" %}}.
 
 Imperial Health Sciences, Unjani Clinic
 ---------------------------------------

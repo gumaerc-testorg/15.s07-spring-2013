@@ -13,7 +13,7 @@ uid: c7dc5b7f-248d-ae6b-71d8-d564ab3927e5
 
 This page focuses on the course _15.S07_ _GlobalHealth Lab_ as it was taught by Dr. Anjali Sastry in Spring 2013. This course is now offered under the permanent course number 15.233.
 
-GlobalHealth Lab is a graduate course structured around both classroom learning and action-based field projects in which teams of students collaborate with host organizations to develop sustainable improvements that address real limitations to health care delivery. Students start by conducting research, developing topical briefings, and planning their fieldwork before they spend two weeks at the sites of their respective host organizations. When on site, students engage with the enterprise and the local community in carrying out their work plans. Upon returning, students are then asked to reflect on their experiences and lessons learned in the field to better define needs in global health delivery. Since its first offering in 2008, GlobalHealth Lab has seen over 40 such projects in sub-Saharan Africa and South Asia. The course is part of [Action Learning at MIT Sloan](http://mitsloan.mit.edu/actionlearning/), but is open to all interested MIT graduate students.
+GlobalHealth Lab is a graduate course structured around both classroom learning and action-based field projects in which teams of students collaborate with host organizations to develop sustainable improvements that address real limitations to health care delivery. Students start by conducting research, developing topical briefings, and planning their fieldwork before they spend two weeks at the sites of their respective host organizations. When on site, students engage with the enterprise and the local community in carrying out their work plans. Upon returning, students are then asked to reflect on their experiences and lessons learned in the field to better define needs in global health delivery. Since its first offering in 2008, GlobalHealth Lab has seen over 40 such projects in sub-Saharan Africa and South Asia. The course is part of {{% resource_link "d7befdfb-4011-45af-994b-cab83f3dd0d0" "Action Learning at MIT Sloan" %}}, but is open to all interested MIT graduate students.
 
 ## Course Outcomes
 
@@ -50,7 +50,7 @@ No previous coursework required. However, interested students must undergo the {
 
 ### Requirements Satisfied
 
-[Sloan Intensive Period (SIP)](https://mitsloan.mit.edu/mba/academics/sloan-intensive-period) units
+{{% resource_link "155edcc2-1663-45ca-990c-333f7920a9eb" "Sloan Intensive Period (SIP)" %}} units
 
 ### Offered
 
