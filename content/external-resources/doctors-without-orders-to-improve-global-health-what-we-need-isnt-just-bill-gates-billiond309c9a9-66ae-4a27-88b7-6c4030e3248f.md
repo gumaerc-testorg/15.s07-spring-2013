@@ -3,7 +3,7 @@ backup_url: ''
 content_type: external-resource
 external_url: https://democracyjournal.org/magazine/9/doctors-without-orders/
 has_external_license_warning: true
-is_broken: true
+is_broken: false
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 title: 'Doctors without Orders: To Improve Global Health, What we Need isn''t just
   Bill Gates'' Billions, but Microsoft''s Managers'
