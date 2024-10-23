@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding host work plan.
-file: /courses/15-s07-globalhealth-lab-spring-2013/2d73dd23053862665420aa67748f35c5_MIT15_S07S13_host_wor_unj.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/2d73dd23053862665420aa67748f35c5_MIT15_S07S13_host_wor_unj.pdf
 file_size: 762365
 file_type: application/pdf
 learning_resource_types: []

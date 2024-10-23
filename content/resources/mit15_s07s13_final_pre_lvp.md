@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final presentation.
-file: /courses/15-s07-globalhealth-lab-spring-2013/dcb50ed1b28d6e39e6c964f31972cab4_MIT15_S07S13_final_pre_lvp.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/dcb50ed1b28d6e39e6c964f31972cab4_MIT15_S07S13_final_pre_lvp.pdf
 file_size: 1418084
 file_type: application/pdf
 learning_resource_types: []

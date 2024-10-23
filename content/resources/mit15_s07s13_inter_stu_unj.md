@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding interim study.
-file: /courses/15-s07-globalhealth-lab-spring-2013/029c230b94c73057bfe23e44e9ffeb03_MIT15_S07S13_inter_stu_unj.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/029c230b94c73057bfe23e44e9ffeb03_MIT15_S07S13_inter_stu_unj.pdf
 file_size: 917020
 file_type: application/pdf
 learning_resource_types: []

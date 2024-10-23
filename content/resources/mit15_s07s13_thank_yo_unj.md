@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding thank you letter.
-file: /courses/15-s07-globalhealth-lab-spring-2013/35e1600fcb70445618c4766d461b2942_MIT15_S07S13_thank_yo_unj.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/35e1600fcb70445618c4766d461b2942_MIT15_S07S13_thank_yo_unj.pdf
 file_size: 659197
 file_type: application/pdf
 learning_resource_types: []
