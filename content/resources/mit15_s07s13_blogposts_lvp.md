@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding blog posts.
-file: /courses/15-s07-globalhealth-lab-spring-2013/def3310627b2b9d6d4adf3856f967057_MIT15_S07S13_blogposts_lvp.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/def3310627b2b9d6d4adf3856f967057_MIT15_S07S13_blogposts_lvp.pdf
 file_size: 1715543
 file_type: application/pdf
 learning_resource_types: []

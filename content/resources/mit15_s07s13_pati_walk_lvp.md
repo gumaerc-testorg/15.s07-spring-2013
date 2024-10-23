@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding patient walk-in survey.
-file: /courses/15-s07-globalhealth-lab-spring-2013/f84c2e32100639ac7a5044fbcb3c681a_MIT15_S07S13_pati_walk_lvp.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/f84c2e32100639ac7a5044fbcb3c681a_MIT15_S07S13_pati_walk_lvp.pdf
 file_size: 186800
 file_type: application/pdf
 learning_resource_types: []

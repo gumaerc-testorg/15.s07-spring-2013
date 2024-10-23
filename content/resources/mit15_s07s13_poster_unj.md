@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding poster. '
-file: /courses/15-s07-globalhealth-lab-spring-2013/8ab9fc12eafccc3022604465f2eebc08_MIT15_S07S13_poster_unj.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/8ab9fc12eafccc3022604465f2eebc08_MIT15_S07S13_poster_unj.pdf
 file_size: 527500
 file_type: application/pdf
 learning_resource_types: []
