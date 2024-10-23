@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding data and measurement.
-file: /courses/15-s07-globalhealth-lab-spring-2013/b362f9187e3969fb193bb53d1af0c439_MIT15_S07S13_plancheck.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/b362f9187e3969fb193bb53d1af0c439_MIT15_S07S13_plancheck.pdf
 file_size: 99203
 file_type: application/pdf
 learning_resource_types: []

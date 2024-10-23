@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mentor Template for Notes from Mentor Meetings
-file: /courses/15-s07-globalhealth-lab-spring-2013/0a75ad51c054e9ac7acb55bbaa591e4a_MIT15_S07S13_mentor-template.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/0a75ad51c054e9ac7acb55bbaa591e4a_MIT15_S07S13_mentor-template.pdf
 file_size: 103297
 file_type: application/pdf
 learning_resource_types: []

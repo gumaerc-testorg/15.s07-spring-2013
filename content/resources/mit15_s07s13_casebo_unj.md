@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding nurse casebook.
-file: /courses/15-s07-globalhealth-lab-spring-2013/20a4aa3db2593c4bdfa194e4bfa5683c_MIT15_S07S13_casebo_unj.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/20a4aa3db2593c4bdfa194e4bfa5683c_MIT15_S07S13_casebo_unj.pdf
 file_size: 1374033
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding initial insights and hypotheses.
-file: /courses/15-s07-globalhealth-lab-spring-2013/c7a763b0754611c841baf682de27dc95_MIT15_S07S13_ini_in_hy_lvp.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/c7a763b0754611c841baf682de27dc95_MIT15_S07S13_ini_in_hy_lvp.pdf
 file_size: 178967
 file_type: application/pdf
 learning_resource_types: []

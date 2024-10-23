@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding finance and revenue models.
-file: /courses/15-s07-globalhealth-lab-spring-2013/14b400f01f0d19af2039f2c34a663283_MIT15_S07S13_intrmstudychk.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/14b400f01f0d19af2039f2c34a663283_MIT15_S07S13_intrmstudychk.pdf
 file_size: 185930
 file_type: application/pdf
 learning_resource_types: []
