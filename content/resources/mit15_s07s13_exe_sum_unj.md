@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding executive summary.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/69ca740e3efa134c8d1a783bb921e3f8_MIT15_S07S13_exe_sum_unj.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/69ca740e3efa134c8d1a783bb921e3f8_MIT15_S07S13_exe_sum_unj.pdf
 file_size: 230394
 file_type: application/pdf
 learning_resource_types: []

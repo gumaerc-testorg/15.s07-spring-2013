@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/21592522c8917ca917b782b21fc7eb87_15-S07_classroom-1.png
+file: /courses/15-s07-globalhealth-lab-spring-2013/21592522c8917ca917b782b21fc7eb87_15-S07_classroom-1.png
 file_size: 84893
 file_type: image/png
 image_metadata:
