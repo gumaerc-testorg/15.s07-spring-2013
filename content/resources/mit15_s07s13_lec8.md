@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding health commodities and distribution.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/b57be16c7278c30b9940b93372f77655_MIT15_S07S13_lec8.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/b57be16c7278c30b9940b93372f77655_MIT15_S07S13_lec8.pdf
 file_size: 745391
 file_type: application/pdf
 learning_resource_types:

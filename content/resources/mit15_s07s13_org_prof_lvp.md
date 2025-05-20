@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding organizational profile.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/b4d3e44ff84cb7a23dde13b8730af57e_MIT15_S07S13_org_prof_lvp.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/b4d3e44ff84cb7a23dde13b8730af57e_MIT15_S07S13_org_prof_lvp.pdf
 file_size: 294495
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overviews and descriptions of the Spring 2013 projects.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/8e56bba6faa797546ae56bbec9b4d329_MIT15_S07S13_pjct-overview.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/8e56bba6faa797546ae56bbec9b4d329_MIT15_S07S13_pjct-overview.pdf
 file_size: 150516
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: All Action Lab teams presented their projects and shared their experiences
   in a program-wide poster session.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/8ca20e493b777bc9a71668ee0bad4ffb_MIT15_S07S13_poster.jpg
+file: /courses/15-s07-globalhealth-lab-spring-2013/8ca20e493b777bc9a71668ee0bad4ffb_MIT15_S07S13_poster.jpg
 file_size: 136382
 file_type: image/jpeg
 image_metadata:

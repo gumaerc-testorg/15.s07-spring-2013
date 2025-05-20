@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains information regarding list of selected books on global\
   \ health, healthcare in low-resource settings, and related policy contexts.\r\n"
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/421bc14cd9d607efd3558ed41e79f58d_MIT15_S07S13_janreadlist.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/421bc14cd9d607efd3558ed41e79f58d_MIT15_S07S13_janreadlist.pdf
 file_size: 308311
 file_type: application/pdf
 learning_resource_types:

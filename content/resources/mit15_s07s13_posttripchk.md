@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding debrief: highlights, challenges,
   surprises.'
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/68704f55c47648f1afcaa675dc575e90_MIT15_S07S13_posttripchk.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/68704f55c47648f1afcaa675dc575e90_MIT15_S07S13_posttripchk.pdf
 file_size: 167842
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/7e89e7d76d45a6a0c9957a48dd5f3093_MIT15_S07S13_workplandraft.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/7e89e7d76d45a6a0c9957a48dd5f3093_MIT15_S07S13_workplandraft.pdf
 file_size: 714449
 file_type: application/pdf
 learning_resource_types:

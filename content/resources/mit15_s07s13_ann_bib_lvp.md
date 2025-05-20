@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding annotated bibliography.
-file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/ca3af5eff5d87959116858e26de5ebc4_MIT15_S07S13_ann_bib_lvp.pdf
+file: /courses/15-s07-globalhealth-lab-spring-2013/ca3af5eff5d87959116858e26de5ebc4_MIT15_S07S13_ann_bib_lvp.pdf
 file_size: 346308
 file_type: application/pdf
 learning_resource_types: []
