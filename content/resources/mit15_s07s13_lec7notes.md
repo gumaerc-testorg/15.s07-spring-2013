@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding management matters.
-file: /courses/15-s07-globalhealth-lab-spring-2013/47bc655145ae9bca9a111bfc874a8f7a_MIT15_S07S13_lec7notes.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/47bc655145ae9bca9a111bfc874a8f7a_MIT15_S07S13_lec7notes.pdf
 file_size: 410196
 file_type: application/pdf
 learning_resource_types:

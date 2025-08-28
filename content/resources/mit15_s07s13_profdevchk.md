@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding expansion, growth, and unmet
   needs.
-file: /courses/15-s07-globalhealth-lab-spring-2013/ff4cf36ee0a7433f21ae0cbe0d3d63fb_MIT15_S07S13_profdevchk.pdf
+file: /ol-ocw-studio-app/courses/15-s07-globalhealth-lab-spring-2013/ff4cf36ee0a7433f21ae0cbe0d3d63fb_MIT15_S07S13_profdevchk.pdf
 file_size: 189598
 file_type: application/pdf
 learning_resource_types: []
