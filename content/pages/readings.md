@@ -283,7 +283,7 @@ S14
 
 Crutchfield, Leslie, and Heather McLeod-Grant. "[Local Forces for Good.](https://ssir.org/articles/entry/local_forces_for_good)" *Stanford Social Innovation Review,* Summer 2012, 36–41.
 
-Hartigan, Pamela, and Charmian Love. "{{% resource_link "3fc7b064-9d3c-4ce5-9295-45b6df0a9159" "The Power of Unreasonable Teams" %}}." *Stanford Social Innovation Review,* Winter 2013, 19–20.
+Hartigan, Pamela, and Charmian Love. "The Power of Unreasonable Teams." *Stanford Social Innovation Review,* Winter 2013, 19–20.
 
 Seelos, Christian, and Johanna Mair. "[Innovation is Not the Holy Grail.](https://ssir.org/articles/entry/innovation_is_not_the_holy_grail)" *Stanford Social Innovation Review,* Fall 2012, 45–9.
 
